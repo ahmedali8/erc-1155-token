@@ -1,0 +1,31 @@
+{
+  "name": "truffle-starterkit",
+  "version": "0.1.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedali8/truffle-starterkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedali8/truffle-starterkit/issues"
+  },
+  "homepage": "https://github.com/ahmedali8/truffle-starterkit#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@truffle/hdwallet-provider": "^1.2.2",
+    "chai": "^4.3.4",
+    "dotenv": "^9.0.1",
+    "prettier": "^2.2.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.10",
+    "truffle": "^5.3.5",
+    "truffle-assertions": "^0.9.2",
+    "truffle-plugin-verify": "^0.5.8"
+  }
+}
