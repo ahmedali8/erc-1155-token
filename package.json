@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ahmedali8/truffle-starterkit#readme",
   "devDependencies": {
-    "@openzeppelin/contracts": "^4.1.0",
+    "@openzeppelin/contracts": "^3.3.0",
     "@truffle/hdwallet-provider": "^1.2.2",
     "chai": "^4.3.4",
     "dotenv": "^9.0.1",
